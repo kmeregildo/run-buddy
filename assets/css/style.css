@@ -170,7 +170,7 @@ section {
     width: 35%;
     float: left;
 }
-.trainer bio {
+.trainer-bio {
     padding: 35px;
     float: left;
     width: 65%;
@@ -193,7 +193,4 @@ section {
 .trainer-bio p {
     font-size: 17px;
     line-height: 1.3;
-}
-.trainer-bio text-right {
-    float: right;
 }
